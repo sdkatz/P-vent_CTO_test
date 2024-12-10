@@ -1,0 +1,70 @@
+Primary  ,  Date   , Time   ,Peak,Reten.,Area,Weight,Weight,Peak,Compound
+File     ,         ,        ,No.,time,[mV.s],[mg],[%],Type,Name
+001,10.12.2024,9:50:06 AM,1,2.240,355.4606,0.0001,100.000,Ordnr,Nitrogen
+001,10.12.2024,9:50:06 AM,,Total,355.4606,0.0001,100.000
+
+Primary  ,  Date   , Time   ,Peak,Reten.,Area,Weight,Weight,Peak,Compound
+File     ,         ,        ,No.,time,[mV.s],[mg],[%],Type,Name
+006,10.12.2024,10:20:20 AM,1,2.173,330.6712,0.1205,9.590,Ordnr,Nitrogen
+006,10.12.2024,10:20:20 AM,2,3.593,3596.2934,0.5163,41.110,Ordnr,Carbon
+006,10.12.2024,10:20:20 AM,,Total,3926.9646,1.2560,50.700
+
+Primary  ,  Date   , Time   ,Peak,Reten.,Area,Weight,Weight,Peak,Compound
+File     ,         ,        ,No.,time,[mV.s],[mg],[%],Type,Name
+007,10.12.2024,10:26:23 AM,1,2.173,167.3199,0.8133,136.456,Ordnr,Nitrogen
+007,10.12.2024,10:26:23 AM,2,3.613,1725.5937,0.2450,41.110,Ordnr,Carbon
+007,10.12.2024,10:26:23 AM,,Total,1892.9136,0.5960,177.566
+
+Primary  ,  Date   , Time   ,Peak,Reten.,Area,Weight,Weight,Peak,Compound
+File     ,         ,        ,No.,time,[mV.s],[mg],[%],Type,Name
+008,10.12.2024,10:32:25 AM,1,2.167,219.4124,0.2401,29.143,Ordnr,Nitrogen
+008,10.12.2024,10:32:25 AM,2,3.600,2338.8939,0.3357,40.737,Ordnr,Carbon
+008,10.12.2024,10:32:25 AM,,Total,2558.3063,0.8240,69.880
+
+Primary  ,  Date   , Time   ,Peak,Reten.,Area,Weight,Weight,Peak,Compound
+File     ,         ,        ,No.,time,[mV.s],[mg],[%],Type,Name
+009,10.12.2024,10:38:28 AM,1,2.187,418.7825,0.2737,16.607,Ordnr,Nitrogen
+009,10.12.2024,10:38:28 AM,2,3.587,4652.3026,0.6755,40.991,Ordnr,Carbon
+009,10.12.2024,10:38:28 AM,,Total,5071.0851,1.6480,57.599
+
+Primary  ,  Date   , Time   ,Peak,Reten.,Area,Weight,Weight,Peak,Compound
+File     ,         ,        ,No.,time,[mV.s],[mg],[%],Type,Name
+010,10.12.2024,10:44:31 AM,1,2.200,608.1626,0.2867,11.877,Ordnr,Nitrogen
+010,10.12.2024,10:44:31 AM,2,3.573,6849.7897,0.9939,41.170,Ordnr,Carbon
+010,10.12.2024,10:44:31 AM,,Total,7457.9524,2.4140,53.048
+
+Primary  ,  Date   , Time   ,Peak,Reten.,Area,Weight,Weight,Peak,Compound
+File     ,         ,        ,No.,time,[mV.s],[mg],[%],Type,Name
+011,10.12.2024,10:50:34 AM,1,2.240,156.2054,0.0581,13.522,Free ,Nitrogen
+011,10.12.2024,10:50:34 AM,2,3.607,1250.0905,0.1772,41.218,Ordnr,Carbon
+011,10.12.2024,10:50:34 AM,,Total,1406.2959,0.4300,54.740
+
+Primary  ,  Date   , Time   ,Peak,Reten.,Area,Weight,Weight,Peak,Compound
+File     ,         ,        ,No.,time,[mV.s],[mg],[%],Type,Name
+012,10.12.2024,10:56:36 AM,1,2.300,123.4643,0.0459,143.432,Free ,Nitrogen
+012,10.12.2024,10:56:36 AM,2,3.627,97.8606,0.0108,33.615,Ordnr,Carbon
+012,10.12.2024,10:56:36 AM,,Total,221.3249,0.0320,177.047
+
+Primary  ,  Date   , Time   ,Peak,Reten.,Area,Weight,Weight,Peak,Compound
+File     ,         ,        ,No.,time,[mV.s],[mg],[%],Type,Name
+013,10.12.2024,11:02:39 AM,1,2.273,359.9634,0.1169,26.811,Ordnr,Nitrogen
+013,10.12.2024,11:02:39 AM,2,3.620,629.2760,0.1072,24.587,Ordnr,Carbon
+013,10.12.2024,11:02:39 AM,,Total,989.2395,0.4360,51.398
+
+Primary  ,  Date   , Time   ,Peak,Reten.,Area,Weight,Weight,Peak,Compound
+File     ,         ,        ,No.,time,[mV.s],[mg],[%],Type,Name
+014,10.12.2024,11:08:42 AM,1,2.313,1339.6199,0.4804,100.000,Free ,Nitrogen
+014,10.12.2024,11:08:42 AM,,Total,1339.6199,0.4804,100.000
+
+Primary  ,  Date   , Time   ,Peak,Reten.,Area,Weight,Weight,Peak,Compound
+File     ,         ,        ,No.,time,[mV.s],[mg],[%],Type,Name
+027,10.12.2024,12:27:18 PM,1,2.273,5676.3490,1.5042,123.908,Ordnr,Nitrogen
+027,10.12.2024,12:27:18 PM,2,3.707,3468.1652,0.5009,41.257,Ordnr,Carbon
+027,10.12.2024,12:27:18 PM,,Total,9144.5142,1.2140,165.165
+
+Primary  ,  Date   , Time   ,Peak,Reten.,Area,Weight,Weight,Peak,Compound
+File     ,         ,        ,No.,time,[mV.s],[mg],[%],Type,Name
+040,10.12.2024,1:45:55 PM,1,2.260,7812.4121,0.6947,123.618,Free ,Nitrogen
+040,10.12.2024,1:45:55 PM,2,3.740,1616.3695,0.2314,41.177,Ordnr,Carbon
+040,10.12.2024,1:45:55 PM,,Total,9428.7816,0.5620,164.795
+
